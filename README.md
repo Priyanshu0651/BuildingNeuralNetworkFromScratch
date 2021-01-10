@@ -1,2 +1,2 @@
 # BuildingNeuralNetworkFromScratch
-In this repo, I have built a deep neural network from scratch in python.
+In this repo, A deep neural network has been built from scratch in python.
